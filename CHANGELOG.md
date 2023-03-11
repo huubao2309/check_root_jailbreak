@@ -5,3 +5,7 @@
 ## 0.0.2
 
 * Add unit test and change `README.md`.
+
+## 0.0.3
+
+* Support flutter version >= 1.17.0.
