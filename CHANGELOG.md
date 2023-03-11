@@ -9,3 +9,7 @@
 ## 0.0.3
 
 * Support flutter version >= 1.17.0.
+
+## 0.0.4
+
+* Update link repository of plugin on Github.

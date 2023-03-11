@@ -11,7 +11,7 @@ $ flutter pub add check_root_jailbreak
 This will add a line like this to your package's pubspec.yaml:
 ```dart
 dependencies:
-  check_root_jailbreak: ^0.0.3
+  check_root_jailbreak: ^0.0.4
   ```
 
 ### *Configuration*
