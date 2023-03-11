@@ -1,6 +1,6 @@
 name: check_root_jailbreak
 description: A Flutter plugin project for checking Root on Android and Jailbreak on iOS.
-version: 0.0.4
+version: 0.0.5
 repository: https://github.com/huubao2309/check_root_jailbreak
 
 environment:
